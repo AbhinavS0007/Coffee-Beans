@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.our-coffee-shop-main--con{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.Cappucino-image{
+    position: relative;
+    height: 60vh;
+    width: 25vw;
+    border: 1vmin solid black;
+    background-image: url('aboutImg.jpg');
+    background-size: cover;
+
+}
+.aboutImg{
+    position: relative;
+    height: 60vh;
+    width: 25vw;
+}
+.love-cappuchino{
+    height: 15vh;
+    width: 20vw;
+    margin-top: 40vh;
+    margin-left: 13vw;
+    font-size: 3vmin;
+    padding-left: 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 6px solid black;
+    z-index: 1;
+    background-color: white;
+}
+.heart-cappuchino{
+    position: relative;
+    height: 4vh;
+    width: 2vw;
+    z-index: 59999;
+    border-radius: 100%;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12.3vw;
+    margin-top: -10vh;
+}
+.Cappucino-details{
+    height: 60vh;
+    width: 35vw;
+    margin-left: 15vw;
+    font-size: 2.5vmin;
+}
+.our-coffee-shop{
+    text-align: center;
+    padding-top: 6vh;
+    padding-bottom: 5vh;
+    color: rgb(252, 145, 6);
+}
+.about-us-see-more-con{
+    padding-top: 6vh;
+    display: flex;
+}
+.About-us{
+    height: 5vh;
+    width: 10vw;
+    margin-left: 4vw;
+    font-size: 3vmin;
+    font-size: 2vmin;
+
+    color: white;
+    background-color:  rgb(252, 145, 6);
+    border-radius: 2vmin;
+}
+.see-more{
+    margin-left: 2vw;
+    /* padding-top: 1vmin; */
+    font-size: 3vmin;
+    color: black;
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 50vh;
+    width: 100vw;
+    background-color: white;
+}
+.con1{
+    height: 10vh;
+    width: 100vw;
+    text-align: center;
+    justify-content: center;
+    font-size: 7vmin;
+    color: rgb(252, 145, 6);
+    padding-top: 6vh;
+}
+.con2{
+    height: 40vh;
+    width: 100vw;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.image-of-trusted-brand{
+    height: 30vh;
+    width: 15vw;
+    margin-left: 2vw;
+
+
+}
+.trusted-brand{
+    height: 25vh;
+    width: 15vw;
+    opacity: .3;
+}
+.trusted-brand:hover{
+    opacity: 1;
+}

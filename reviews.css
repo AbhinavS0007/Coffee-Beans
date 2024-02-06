@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.reviews-main-box{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(232, 229, 229);
+}
+.what-client-says{
+    height: 30vh;
+    width: 60vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.client-review{
+    height: 70vh;
+    width: 60vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.reviewr-profile-img{
+    height: 25vh;
+    width: 25vh;
+    margin-left: 22vw;
+    background-color: bisque;
+    border-radius: 100%;
+}
+.my-image{
+    position: relative;
+    height: 25vh;
+    width: 25vh;
+    border-radius: 100%;
+}
+.client-note-says{
+    font-size: 4vmin;
+}
+.double-upper-column{
+    font-size: 10vmin;
+}

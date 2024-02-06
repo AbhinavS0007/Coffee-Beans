@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.link-color{
+    color: rgb(0, 0, 0);
+}
+.hover{
+    position: sticky;
+    top: 0;
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    background-color: rgb(227, 225, 225);
+
+}
+.coffee{
+    height: 10vh;
+    margin-left: 4vw;
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmin;
+    color: rgb(0, 0, 0);
+}
+.other-details{
+    height: 10vh;
+    padding-left: 13vw;
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vmin;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.contact-details{
+    height: 10vh;
+    padding-left: 17vw;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 3vmin;
+    justify-content: center;
+    align-items: center;
+    width: 15vw;
+}

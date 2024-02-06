@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    height: 60vh;
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(64, 59, 59);
+}
+.box1{
+    height: 45vh;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.box2{
+    height: 10vh;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.big-box{
+    height: 40vh;
+    width: 31vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.boxA{
+    height: 25vh;
+    width: 31vw;
+}
+.boxA1{
+    height: 10vh;
+    width: 31vw;
+    display: flex;
+    
+}
+.boxA11{
+    padding-top: 2vh;
+    font-size: 5vmin;
+}
+.boxA12{
+    font-size: 3vmin;
+    display: flex;
+    padding-left: 1vw;
+    justify-content: center;
+    align-items: center;
+}
+.boxA2{
+    height: 15vh;
+    width: 31vw;
+    padding-top: 2vh;
+    font-size: 3vmin;
+    color: rgb(186, 180, 180);
+}
+.boxB{
+    height: 15vh;
+    width: 31vw;
+    display: flex;
+}
+.boxB1{
+    height: 15vh;
+    width: 5vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vmin;
+}
+.boxB2{
+    height: 15vh;
+    width: 26vw;
+    padding-top: 3.5vh;
+    font-size: 3vmin;
+    color: rgb(186, 180, 180);
+}
+.four-boxes{
+    height: 40vh;
+    width: 13vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2vw;
+    color: white;
+
+}
+.facility{
+    font-size: 4vmin;
+}
+.Home{
+    font-size: 4vmin;
+}
+.footer-details{
+    font-size: 3vmin;
+    color: rgb(186, 180, 180);
+}

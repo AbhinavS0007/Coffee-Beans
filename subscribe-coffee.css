@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.subscribe-page{
+    height: 70vh;
+    width: 100vw;
+    background-color: white;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.subscribe-box1{
+    height: 10vh;
+    width: auto;
+    display: flex;
+    font-size: 6vmin;
+    padding-left: 1vw;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.subscribe-box2{
+    height: 10vh;
+    width: auto;
+
+}
+.subscribe-box3{
+    height: 10vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.subscribe-box3-seacg-box{
+    position: relative;
+    width: 25vw;
+    font-size: 3vmin;
+    padding-left: 2vw;
+    height: 7.2vh;
+    border-radius: 30px 0px 0px 30px ;
+}
+.subscribe-button-box3{
+    position: relative;
+    width: 13vw;
+    font-size: 3vmin;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 8vh;
+    color: aliceblue;
+    background-color: rgb(252, 145, 6);
+    border-radius: 0px 5vmin 5vmin  0px;
+}
+.subscribe-box4{
+    height: 10vh;
+    width: auto;
+    padding-top: 5vh;
+}
+.subscribe-box4-icons{
+    font-size: 5vmin;
+    padding-left: 1.5vw;
+}
